@@ -1,3 +1,1 @@
-# Functionality 
 
- * Add board
